@@ -1,0 +1,7 @@
+111222333,Ngo Thi Thanh Lan,nu
+111444777,Vo Thanh Ty,nam
+123456789,Nguyen Hong Son,nam
+147258369,Tran Ngoc Thong,nam
+222444666,Nguyen Thi Hong Nhung,nu
+241568292,Hoang Ngoc Trung,nam
+333666999,Hoang Ngoc Thach,nam
